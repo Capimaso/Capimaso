@@ -9,7 +9,7 @@
    🌱 Estou aprendendo ...
  </h2>
  <div id="linguagens" style="display":flex; gap:10px; justify-content:center; align-items:center; cursor:default;>
-   <url src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></url>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></url>
  </div>
 <!--
 **Capimaso/Capimaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
