@@ -8,12 +8,7 @@
  <h2>
    🌱 Estou aprendendo ...
  </h2>
- <style>
-   #linguagens {
-     cursor:default;
-     }
- </style>
- <div id="linguagens" style="display":flex;gap:10px;justify-content:center;align-items:center;>
+ <div id="linguagens" style="display":flex; gap:10px; justify-content:center; align-items:center; cursor:default;>
    <url src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></url>
  </div>
 <!--
