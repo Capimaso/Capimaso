@@ -9,7 +9,7 @@
    🌱 Estou aprendendo ...
  </h2>
  <div id="linguagens" style="display":flex; gap:10px; justify-content:center; align-items:center; cursor:default;>
-   <img src="pythonic.png" width="40 heigth="40"></url>
+   <img src="pythonic.png" width="40 height="40"></url>
  </div>
 <!--
 **Capimaso/Capimaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
