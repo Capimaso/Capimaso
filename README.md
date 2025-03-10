@@ -1,12 +1,28 @@
 ## Hi there 👋
+<div>
+ <a href="https://github.com/Capimaso" style="display":flex;gap:10px;justify-content:center;align-items:center;>
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capimaso&layout=compact&langs_count=7&theme=dracula"/>
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Capimaso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
+ <h2>
+   🌱 Estou aprendendo ...
+ </h2>
+ <style>
+   #linguagens {
+     cursor:default;
+     }
+ </style>
+ <div id="linguagens" style="display":flex;gap:10px;justify-content:center;align-items:center;>
+   <url src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></url>
+ </div>
 <!--
 **Capimaso/Capimaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
