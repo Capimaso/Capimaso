@@ -12,7 +12,7 @@
   <img align="center" src="pythonic.png" width="40" height="40"></url>
   <img align="center" src="htmlic.png" width="40" height="40"></url>
   <img align="center" src="javascriptic.png" width="40" height="40"></url>
-  <img align="center" src="cssic.png" width="48" height="48"></url>
+  <img align="center" src="cssic.png" width="40" height="40"></url>
  </div>
 <!--
 **Capimaso/Capimaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
