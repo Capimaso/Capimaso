@@ -26,9 +26,7 @@
   </em>
  </p>
 
- <p>
-  <a href="ayo.so/capimaso"><img src="catspin.gif" width="40" height="40" title="Meu ayo"</a>
- </p>
+ <a href="ayo.so/capimaso"><img src="catspin.gif" width="40" height="40" title="Meu ayo"</a>
 <!--
 **Capimaso/Capimaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
