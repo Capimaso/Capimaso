@@ -9,10 +9,10 @@
    🌱 Estou aprendendo ...
  </h2>
  <div id="linguagens" style="display":flex; gap:10px; justify-content:center; align-items:center;>
-  <img align="left" src="pythonic.png" width="40" height="40"></url>
-  <img align="left" src="htmlic.png" width="40" height="40"></url>
-  <img align="left" src="javascriptic.png" width="40" height="40"></url>
-  <img align="left" src="cssic.png" width="40" height="40"></url>
+  <img align="top" src="pythonic.png" width="40" height="40"></url>
+  <img align="top" src="htmlic.png" width="40" height="40"></url>
+  <img align="top" src="javascriptic.png" width="40" height="40"></url>
+  <img align="top" src="cssic.png" width="50" height="50"></url>
  </div>
 <!--
 **Capimaso/Capimaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
