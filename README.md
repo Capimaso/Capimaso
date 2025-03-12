@@ -25,6 +25,10 @@
    Sou muito bom e adoro lógica, várias vezes ao dia sempre utilizando lógica pra tentar criar soluções e resolver problemas!
   </em>
  </p>
+
+ <p>
+  <a href="ayo.so/capimaso"><img src="catspin.gif" width="40" height="40" title="Meu ayo"</a>
+ </p>
 <!--
 **Capimaso/Capimaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
