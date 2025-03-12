@@ -8,7 +8,7 @@
  <h2>
    🌱 Estou aprendendo ...
  </h2>
- <div id="linguagens" style="display":flex; gap:10px; justify-content:center; transform:translate(50%, 50%); cursor:default;>
+ <div id="linguagens" style="display":flex; gap:10px; justify-content:center; transform:translate(50%, 50%); cursor:grab;>
    <img src="pythonic.png" width="40 height="40"></url>
   <img src="htmlic.png" width="40 height="40"></url>
   <img src="javascriptic.png" width="40 height="40"></url>
