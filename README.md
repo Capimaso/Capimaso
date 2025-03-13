@@ -19,7 +19,7 @@
   <img align="center" src="javascriptic.png" width="40" height="40"></url>
  </div>
 
- ## ⚡ Um fato engraçado: ...
+ ## ⚡ Um fato engraçado ...
  <p>
   <em>
    Sou muito bom e adoro lógica, várias vezes ao dia sempre utilizando lógica pra tentar criar soluções e resolver problemas!
