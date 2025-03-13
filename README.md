@@ -21,13 +21,13 @@
 
  ## 🖥 Especificações Técnicas ...
  <p>
-  <strong>Processador:</strong> Ryzen 5 5600g
-  <strong>Placa Gráfica:</strong> Integrada(Vega 7)
-  <strong>Memória Ram:</strong> 16gb(8x2)
-  <strong>Placa Mãe:</strong> Asus B550m-a
-  <strong>Fonte:</strong> GAMIDA Kratos 500w
-  <strong>Monitor:</strong> Pichau TGT Altay T3H 165hz 24" VA <em>&&</em> Samsung s20c300fl 60hz 20"
-  <strong>Sistema Operacional:</strong> Windows 10
+  <strong>Processador:</strong> Ryzen 5 5600g<br>
+  <strong>Placa Gráfica:</strong> Integrada(Vega 7)<br>
+  <strong>Memória Ram:</strong> 16gb(8x2)<br>
+  <strong>Placa Mãe:</strong> Asus B550m-a<br>
+  <strong>Fonte:</strong> GAMIDA Kratos 500w<br>
+  <strong>Monitor:</strong> Pichau TGT Altay T3H 165hz 24" VA <em>&&</em> Samsung s20c300fl 60hz 20"<br>
+  <strong>Sistema Operacional:</strong> Windows 10<br>
  </p>
 
  ## ⚡ Um fato engraçado ...
