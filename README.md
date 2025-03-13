@@ -13,10 +13,10 @@
 ## 🌱 Estou aprendendo ...
  
  <div style="display":flex; gap:10px; justify-content:center; align-items:center;>
-  <img align="center" src="pythonic.png" width="40" height="40"></url>
-  <img align="center" src="htmlic.png" width="40" height="40"></url>
-  <img align="center" src="cssic.png" width="40" height="40"></url>
-  <img align="center" src="javascriptic.png" width="40" height="40"></url>
+  <a href="https://pt.wikipedia.org/wiki/Python"><img align="center" src="pythonic.png" width="40" height="40"></url></a>
+  <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" src="htmlic.png" width="40" height="40"></url></a>
+  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" src="cssic.png" width="40" height="40"></url></a>
+  <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" src="javascriptic.png" width="40" height="40"></url></a>
  </div>
 
  ## ⚡ Um fato engraçado ...
