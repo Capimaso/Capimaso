@@ -27,7 +27,7 @@
   <strong>Placa Mãe:</strong> Asus B550m-a<br>
   <strong>Fonte:</strong> GAMIDA Kratos 500w<br>
   <strong>Monitor:</strong> Pichau TGT Altay T3H 165hz 24" VA <em>&&</em> Samsung s20c300fl 60hz 20"<br>
-  <strong>Sistema Operacional:</strong> Windows 10<br>
+  <strong>Sistema Operacional:</strong> Windows && Linux<br>
  </p>
 
  ## ⚡ Um fato engraçado ...
