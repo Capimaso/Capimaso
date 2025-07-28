@@ -17,6 +17,7 @@
   <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" src="htmlic.png" width="40" height="40"></url></a>
   <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" src="cssic.png" width="40" height="40"></url></a>
   <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" src="javascriptic.png" width="40" height="40"></url></a>
+  <a href="https://pt.wikipedia.org/wiki/PHP"><img align="center" src="phpic.png" width ="40" height="40"></url></a>
  </div>
 
  ## ⚡ Um fato engraçado ...
