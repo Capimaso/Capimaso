@@ -1,7 +1,7 @@
 ## Olá, me chamo Tiago 👋
 <p>
  <strong>
-  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça que, desde 2021 vem brincando com programação de jogos, até que me interesso por esse mundo, e atualmente estou aprimorando minhas habilidades em código e aprendendo a utilizar diversas linguagens!
+  Systems Analysis and Development student at the Municipal College of Palhoça who, since 2021, has been playing with game programming, until I became interested in this world, and I am currently improving my coding skills and learning to use and apply different languages ​​in the professional world!
  </strong>
 </p>
 <div>
@@ -10,7 +10,7 @@
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Capimaso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🌱 Estou aprendendo ...
+## 🌱 I'm learning ...
  
  <div style="display":flex; gap:10px; justify-content:center; align-items:center;>
   <a href="https://pt.wikipedia.org/wiki/Python"><img align="center" src="pythonic.png" width="40" height="40"></url></a>
@@ -20,10 +20,10 @@
   <a href="https://pt.wikipedia.org/wiki/PHP"><img align="center" src="phpic.png" width ="40" height="40"></url></a>
  </div>
 
- ## ⚡ Um fato engraçado ...
+ ## ⚡ Fun fact ...
  <p>
   <em>
-   Sou muito bom e adoro lógica, várias vezes ao dia sempre utilizando lógica pra tentar criar soluções e resolver problemas!
+   I'm very good and I love logic, several times a day I always use logic to try to create solutions and solve problems!
   </em>
  </p>
 
