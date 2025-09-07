@@ -1,4 +1,4 @@
-## Olá, me chamo Tiago 👋
+## Hello, my name is Tiago 👋
 <p>
  <strong>
   Systems Analysis and Development student at the Municipal College of Palhoça who, since 2021, has been playing with game programming, until I became interested in this world, and I am currently improving my coding skills and learning to use and apply different languages ​​in the professional world!
